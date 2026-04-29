@@ -1,0 +1,15 @@
+{
+	"name": "radhedf",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "56e920f2-71c0-4a4d-b802-c254e2d43a74",
+		"tenantId": "a6000ae4-1694-44bd-aa1e-88d1831be40e"
+	}
+}
